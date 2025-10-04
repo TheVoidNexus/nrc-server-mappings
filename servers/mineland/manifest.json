@@ -7,7 +7,7 @@
     "inst.mineland.net"
   ],
   "pretty-name": "Mineland Network",
-  "categorys": ["SURVIVAL", "BEDWARS", "SKYWARS", "MINIGAMES", "SKYBLOCK", "PRISON"],
+  "categorys": ["SURVIVAL", "MINIGAMES", "SKYBLOCK", "PRISON"],
   "gamemodes": {
     "creativeplus": {
       "versions": "1.8+",
